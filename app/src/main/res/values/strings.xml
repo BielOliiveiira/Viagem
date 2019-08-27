@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercício</string>
+    <string name="VelMedia">Velocidade Média:</string>
+    <string name="RenVei">Rendimento Veículo:</string>
+    <string name="distancia">Distância:</string>
+    <string name="consumo">Consumo:</string>
+    <string name="calcular">Calcular</string>
+    <string name="tempoGasto">Tempo Gasto:</string>
+</resources>
